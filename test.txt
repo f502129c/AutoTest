@@ -1,3 +1,8 @@
 fhh11111111
 这是需要合并的内容
+<<<<<<< HEAD
 这是mergeTest上的内容
+=======
+这是mergeDemo上的内容
+>>>>>>> mergeDemo
+版本1.0
