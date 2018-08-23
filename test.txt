@@ -6,3 +6,4 @@ fhh11111111
 这是mergeDemo上的内容
 >>>>>>> mergeDemo
 版本1.0
+版本2.0
